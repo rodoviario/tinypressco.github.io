@@ -2,3 +2,4 @@ excerpt_separator: ""
 pygments: true
 title: The Tinypress blog
 paginate: 5
+markdown: kramdown
