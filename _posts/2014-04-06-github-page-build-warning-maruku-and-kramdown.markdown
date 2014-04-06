@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Github Page build warning, Maruku and Kramdown
 layout: post
 ---
