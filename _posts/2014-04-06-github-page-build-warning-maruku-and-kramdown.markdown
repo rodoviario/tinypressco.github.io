@@ -1,6 +1,6 @@
 ---
 published: false
-title: [Github] Page build warning, Maruku and Kramdown
+title: Github Page build warning, Maruku and Kramdown
 layout: post
 ---
 If you received a page build warning email that you should change your Markdown interpreter, it is time to switch from Maruku to Kramdown.
