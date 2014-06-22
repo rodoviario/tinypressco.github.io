@@ -3,7 +3,7 @@ published: true
 title: Add a custom domain to your Github page
 layout: post
 ---
-[](http://i.imgur.com/mABSTCV.png)
+![](http://i.imgur.com/mABSTCV.png)
 
 Now you can add your custom domain to your Github page from [Tinypress](http://tinypress.co) in 2 simple steps.
 
