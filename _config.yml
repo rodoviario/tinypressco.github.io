@@ -2,7 +2,9 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://tinypressco.github.io
-title: The Tinypress blog
-tagline: A log of everyday life
-description: <a href="https://tinypress.co/">Tinypress</a> lets you create and easily manage your blog on Github. <a href="https://tinypress.co/">Get started now &raquo;</a>
-paginate: 5
+name: Tinypress
+description: <a href="https://tinypress.co/">Tinypress</a> allows you create and easily manage your blog on <a href="https://tinypress.co/">Github</a>
+author: Tinypress
+avatar: http://www.gravatar.com/avatar/52a641825a91199799643ea46c936eaa?s=120&d=mm&r=g
+ga_domain: 
+ga_tracking_id: 
