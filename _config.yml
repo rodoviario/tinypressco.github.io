@@ -1,5 +1,8 @@
 excerpt_separator: ""
 pygments: true
-title: The Tinypress blog
-paginate: 5
 markdown: kramdown
+url: http://tinypressco.github.io
+title: The Tinypress blog
+tagline: A log of everyday life
+description: <a href="https://tinypress.co/">Tinypress</a> lets you create and easily manage your blog on Github. <a href="https://tinypress.co/">Get started now &raquo;</a>
+paginate: 5
