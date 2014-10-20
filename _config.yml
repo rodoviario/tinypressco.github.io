@@ -3,8 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://tinypressco.github.io
 title: The Tinypress blog
-email: love@tinypress.co
-author: Tinypress
-description: Tinypress allows you create and easily manage your blog on Github.<br /><br /><a href="https://tinypress.co/">Get started now.</a>
+tagline: A log of everyday life
+description: My awesome new site
 paginate: 5
-google_analytics: 
