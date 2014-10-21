@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://tinypressco.github.io
 title: The Tinypress blog
-tagline: A log of everyday life
-description: My awesome new site
+tagline: Site updates, blogging tips and general Github pages hacks.
+description: Blog of <a href="https://tinypress.co">tinypress.co</a>.
 paginate: 5
